@@ -22,8 +22,8 @@
 package main
 
 import (
-	"github.com/kolesa-team/go-webp/encoder"
-	"github.com/kolesa-team/go-webp/webp"
+	"github.com/lEx0/go-webp/encoder"
+	"github.com/lEx0/go-webp/webp"
 	"image/jpeg"
 	"log"
 	"os"

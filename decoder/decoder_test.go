@@ -22,7 +22,7 @@
 package decoder
 
 import (
-	"github.com/kolesa-team/go-webp/utils"
+	"github.com/lEx0/go-webp/utils"
 	"image"
 	"os"
 	"testing"

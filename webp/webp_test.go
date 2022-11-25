@@ -23,8 +23,8 @@ package webp
 
 import (
 	"bytes"
-	"github.com/kolesa-team/go-webp/decoder"
-	"github.com/kolesa-team/go-webp/encoder"
+	"github.com/lEx0/go-webp/decoder"
+	"github.com/lEx0/go-webp/encoder"
 	"golang.org/x/image/webp"
 	"image"
 	"image/jpeg"

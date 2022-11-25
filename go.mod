@@ -1,4 +1,4 @@
-module github.com/kolesa-team/go-webp
+module github.com/lEx0/go-webp
 
 go 1.10
 
